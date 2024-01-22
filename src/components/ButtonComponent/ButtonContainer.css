@@ -1,0 +1,10 @@
+.button-container {
+  
+    align-items: center;
+    gap: 10px; /* Adjust the gap between buttons as needed */
+    padding: 10px; /* Adjust padding as needed */
+    margin-bottom: 15px;
+    size: 40 px;
+    display: flex;
+    
+  }
